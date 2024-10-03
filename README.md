@@ -164,7 +164,7 @@ You Wrote: iam os can i help you
 ```
 
 ```
-anesh@ubuntu:~$ ipcs
+ganesh@ubuntu:~$ ipcs
 
 ------ Message Queues --------
 key        msqid      owner      perms      used-bytes   messages    
@@ -183,6 +183,7 @@ key        shmid      owner      perms      bytes      nattch     status
 0x00000000 16         ganesh     600        61440      2          dest         
 
 ------ Semaphore Arrays --------
+
 
 ```
 
