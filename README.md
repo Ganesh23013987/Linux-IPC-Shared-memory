@@ -145,7 +145,7 @@ Memory Attached at 2cfd1000
 Enter Some Text: hello ganesh
 waiting for client.	
 waiting for client.	
-Enter Some Text: iam os can i hello help you
+Enter Some Text: iam os can i help you
 waiting for client.	
 waiting for client.	
 Enter Some Text: 
@@ -159,7 +159,7 @@ ganesh@ubuntu:~$ ./process1.o
 Shared memory id is 11 
 Memory Attached at 57a7b000
 You Wrote: hello ganesh
-You Wrote: iam os can i hello help you
+You Wrote: iam os can i help you
 
 ```
 
